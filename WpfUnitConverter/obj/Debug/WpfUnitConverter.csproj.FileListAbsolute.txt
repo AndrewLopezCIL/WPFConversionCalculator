@@ -1,0 +1,16 @@
+C:\Users\Nardew\source\repos\WpfUnitConverter\WpfUnitConverter\bin\Debug\WpfUnitConverter.exe.config
+C:\Users\Nardew\source\repos\WpfUnitConverter\WpfUnitConverter\bin\Debug\WpfUnitConverter.exe
+C:\Users\Nardew\source\repos\WpfUnitConverter\WpfUnitConverter\bin\Debug\WpfUnitConverter.pdb
+C:\Users\Nardew\source\repos\WpfUnitConverter\WpfUnitConverter\obj\Debug\WpfUnitConverter.csprojAssemblyReference.cache
+C:\Users\Nardew\source\repos\WpfUnitConverter\WpfUnitConverter\obj\Debug\View\UnitConverterView.g.cs
+C:\Users\Nardew\source\repos\WpfUnitConverter\WpfUnitConverter\obj\Debug\App.g.cs
+C:\Users\Nardew\source\repos\WpfUnitConverter\WpfUnitConverter\obj\Debug\WpfUnitConverter_MarkupCompile.cache
+C:\Users\Nardew\source\repos\WpfUnitConverter\WpfUnitConverter\obj\Debug\WpfUnitConverter_MarkupCompile.lref
+C:\Users\Nardew\source\repos\WpfUnitConverter\WpfUnitConverter\obj\Debug\View\UnitConverterView.baml
+C:\Users\Nardew\source\repos\WpfUnitConverter\WpfUnitConverter\obj\Debug\WpfUnitConverter.g.resources
+C:\Users\Nardew\source\repos\WpfUnitConverter\WpfUnitConverter\obj\Debug\WpfUnitConverter.Properties.Resources.resources
+C:\Users\Nardew\source\repos\WpfUnitConverter\WpfUnitConverter\obj\Debug\WpfUnitConverter.csproj.GenerateResource.cache
+C:\Users\Nardew\source\repos\WpfUnitConverter\WpfUnitConverter\obj\Debug\WpfUnitConverter.csproj.CoreCompileInputs.cache
+C:\Users\Nardew\source\repos\WpfUnitConverter\WpfUnitConverter\obj\Debug\WpfUnitConverter.exe
+C:\Users\Nardew\source\repos\WpfUnitConverter\WpfUnitConverter\obj\Debug\WpfUnitConverter.pdb
+C:\Users\Nardew\source\repos\WpfUnitConverter\WpfUnitConverter\obj\Debug\GeneratedInternalTypeHelper.g.cs
